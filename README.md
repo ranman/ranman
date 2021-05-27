@@ -4,7 +4,7 @@
 
 ☁️ head in the clouds
 
-💵 paid by [facebook open source](https://github.com/facebook/)
+💵 Director of Developer Relations at [Vendia](https://github.com/vendia/)
 
 📝 👨‍🏫 🎥 writer, speaker, streamer - [randall.bot](https://randall.bot/)
 
