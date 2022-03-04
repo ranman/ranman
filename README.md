@@ -4,7 +4,7 @@
 
 ☁️ head in the clouds
 
-💵 Director of Developer Relations at [Vendia](https://github.com/vendia/)
+💵 VP Cloud Strategy and Solutions at [Caylent](https://caylent.com/)
 
 📝 👨‍🏫 🎥 writer, speaker, streamer - [randall.bot](https://randall.bot/)
 
